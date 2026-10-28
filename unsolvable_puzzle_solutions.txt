@@ -1,0 +1,3 @@
+Input file: unsolvable_puzzle.txt
+No solution exists.
+Total solutions: 0
